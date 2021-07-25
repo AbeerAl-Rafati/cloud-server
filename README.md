@@ -2,7 +2,7 @@
 
 Auther: Abeer Rafati
 
-[REPO LINK](https://github.com/AbeerAl-Rafati/CAPS)
+[aws deploy link](https://github.com/AbeerAl-Rafati/CAPS)
 
 This app to explain how to use aws Elastic Beanstalk
 
@@ -15,3 +15,6 @@ To use this app:
 
 4. to run the server use in terminal  
    `nodemon`
+
+5. add a param in the link \hello to see new mssage
+6. add \bad to see another massage
