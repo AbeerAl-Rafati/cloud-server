@@ -15,5 +15,3 @@ To use this app:
 
 4. to run the server use in terminal  
    `nodemon`
-
-![pic](lab16.PNG)
