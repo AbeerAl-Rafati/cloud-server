@@ -2,7 +2,7 @@
 
 Auther: Abeer Rafati
 
-[aws deploy link](https://github.com/AbeerAl-Rafati/CAPS)
+[aws deploy link](http://test1-env.eba-aydm4akm.us-east-1.elasticbeanstalk.com/)
 
 This app to explain how to use aws Elastic Beanstalk
 
